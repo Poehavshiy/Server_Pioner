@@ -1,0 +1,4 @@
+/home/nikita/clion-2016.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/nikita/ClionProjects/Server_Pioner
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nikita/ClionProjects/Server_Pioner/cmake-build-debug

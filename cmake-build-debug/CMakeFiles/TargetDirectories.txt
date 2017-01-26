@@ -1,0 +1,3 @@
+/home/nikita/ClionProjects/Server_Pioner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/ClionProjects/Server_Pioner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/ClionProjects/Server_Pioner/cmake-build-debug/CMakeFiles/Server_Pioner.dir

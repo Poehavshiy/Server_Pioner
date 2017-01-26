@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/Server_Pioner.dir/main.cpp.o CMakeFiles/Server_Pioner.dir/Thread_Poll.cpp.o  -o Server_Pioner -lpthread -levent_core 
